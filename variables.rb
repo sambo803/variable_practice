@@ -17,3 +17,6 @@ years_of_service = 22.003
 deposit_paid = false
 made_all_star_team = true
 logged_in = false
+
+favorite_food = "Huevos Rancheros"
+email = "stevenking@comcast.net"
