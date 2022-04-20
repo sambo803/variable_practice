@@ -12,3 +12,8 @@ years_of_service = 22
 gpa = 3.33
 batting_avg = .407
 years_of_service = 22.003
+
+# Variables in Ruby: Booleans
+deposit_paid = false
+made_all_star_team = true
+logged_in = false
